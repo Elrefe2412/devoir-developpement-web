@@ -8,7 +8,8 @@ body{
     align-items: center;
     background-color: rgb(34, 58, 58);
     text-align: center;
-
+    position: fixed;
+    width: 100%;
 }
 #logo-slogan{
     display: grid;
